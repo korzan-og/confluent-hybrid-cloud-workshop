@@ -2,7 +2,7 @@
  Providers
 */
 provider "google" {
-  credentials = var.credentials_file_path
+  #credentials = var.credentials_file_path
   project     = var.project
   region      = var.region
 }
