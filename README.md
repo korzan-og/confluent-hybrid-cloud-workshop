@@ -20,7 +20,7 @@ Each workshop participant will work through a series of Labs to create the follo
 * Terraform 0.12.20 or later
 * Python + [Yaml](https://pyyaml.org/wiki/PyYAML)
 * A GCP/AWS/Azure account with the appropriate privileges
-* [GCloud SDK][https://cloud.google.com/sdk/docs/install]
+* [GCloud SDK](https://cloud.google.com/sdk/docs/install)
 * For setting GCloud credentials, login with gcloud auth application-default login and check the following link if more information is needed: https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference#running-terraform-on-your-workstation
 * For setting AWS credentials, please check the following link: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html#cli-configure-files-where
 * A Confluent Cloud Account
